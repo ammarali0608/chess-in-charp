@@ -1,0 +1,68 @@
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\CHESS.exe.config
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.exe
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.pdb
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\CHESS.exe
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\CHESS.pdb
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\mscorlib.dll
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\System.Net.Http.dll
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\System.Net.Http.xml
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\normidna.nlp
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\normnfc.nlp
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\normnfd.nlp
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\normnfkc.nlp
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\bin\Debug\normnfkd.nlp
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.Form1.resources
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+C:\Users\TEMP.SIBADOMAIN.000\Documents\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.Cache
+F:\CHESS\CHESS\bin\Debug\CHESS.exe.config
+F:\CHESS\CHESS\obj\Debug\CHESS.exe
+F:\CHESS\CHESS\obj\Debug\CHESS.pdb
+F:\CHESS\CHESS\bin\Debug\CHESS.exe
+F:\CHESS\CHESS\bin\Debug\CHESS.pdb
+F:\CHESS\CHESS\obj\Debug\CHESS.Form1.resources
+F:\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+F:\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.Cache
+F:\CHESS\CHESS\obj\Debug\CHESS.csproj.AssemblyReference.cache
+F:\CHESS\CHESS\obj\Debug\CHESS.csproj.SuggestedBindingRedirects.cache
+F:\CHESS\CHESS\obj\Debug\CHESS.csproj.CoreCompileInputs.cache
+E:\CHESS\CHESS\bin\Debug\CHESS.exe.config
+E:\CHESS\CHESS\bin\Debug\CHESS.exe
+E:\CHESS\CHESS\bin\Debug\CHESS.pdb
+E:\CHESS\CHESS\obj\Debug\CHESS.csproj.SuggestedBindingRedirects.cache
+E:\CHESS\CHESS\obj\Debug\CHESS.Form1.resources
+E:\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+E:\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.cache
+E:\CHESS\CHESS\obj\Debug\CHESS.csproj.CoreCompileInputs.cache
+E:\CHESS\CHESS\obj\Debug\CHESS.exe
+E:\CHESS\CHESS\obj\Debug\CHESS.pdb
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Debug\CHESS.exe.config
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Debug\CHESS.exe
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Debug\CHESS.pdb
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.exe
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.pdb
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Debug\CHESS.CHESS.resources
+D:\CHESS\CHESS\obj\Debug\CHESS.csproj.SuggestedBindingRedirects.cache
+D:\CHESS\CHESS\obj\Debug\CHESS.CHESS.resources
+D:\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.cache
+D:\CHESS\CHESS\obj\Debug\CHESS.exe
+D:\CHESS\CHESS\obj\Debug\CHESS.pdb
+D:\CHESS\CHESS\bin\Debug\CHESS.exe.config
+D:\CHESS\CHESS\bin\Debug\CHESS.exe
+D:\CHESS\CHESS\bin\Debug\CHESS.pdb
+D:\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+D:\CHESS\CHESS\obj\Debug\CHESS.csproj.CoreCompileInputs.cache
+D:\VP PROJECR NF\CHESS\CHESS\bin\Debug\CHESS.dll.config
+D:\VP PROJECR NF\CHESS\CHESS\bin\Debug\CHESS.dll
+D:\VP PROJECR NF\CHESS\CHESS\bin\Debug\CHESS.pdb
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.csproj.AssemblyReference.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.Chess.resources
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.csproj.GenerateResource.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.csproj.CoreCompileInputs.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.dll
+D:\VP PROJECR NF\CHESS\CHESS\obj\Debug\CHESS.pdb

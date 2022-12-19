@@ -1,0 +1,31 @@
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Release\CHESS.exe.config
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Release\CHESS.exe
+C:\Users\ammar\source\repos\CHESS\CHESS\bin\Release\CHESS.pdb
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.Properties.Resources.resources
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.exe
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.pdb
+C:\Users\ammar\source\repos\CHESS\CHESS\obj\Release\CHESS.CHESS.resources
+D:\CHESS\CHESS\bin\Release\CHESS.exe.config
+D:\CHESS\CHESS\bin\Release\CHESS.exe
+D:\CHESS\CHESS\bin\Release\CHESS.pdb
+D:\CHESS\CHESS\obj\Release\CHESS.csproj.SuggestedBindingRedirects.cache
+D:\CHESS\CHESS\obj\Release\CHESS.CHESS.resources
+D:\CHESS\CHESS\obj\Release\CHESS.Properties.Resources.resources
+D:\CHESS\CHESS\obj\Release\CHESS.csproj.GenerateResource.cache
+D:\CHESS\CHESS\obj\Release\CHESS.csproj.CoreCompileInputs.cache
+D:\CHESS\CHESS\obj\Release\CHESS.exe
+D:\CHESS\CHESS\obj\Release\CHESS.pdb
+D:\CHESS\CHESS\obj\Release\CHESS.csproj.AssemblyReference.cache
+D:\VP PROJECR NF\CHESS\CHESS\bin\Release\CHESS.dll.config
+D:\VP PROJECR NF\CHESS\CHESS\bin\Release\CHESS.dll
+D:\VP PROJECR NF\CHESS\CHESS\bin\Release\CHESS.pdb
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.csproj.AssemblyReference.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.Chess.resources
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.Properties.Resources.resources
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.csproj.GenerateResource.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.csproj.CoreCompileInputs.cache
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.dll
+D:\VP PROJECR NF\CHESS\CHESS\obj\Release\CHESS.pdb
